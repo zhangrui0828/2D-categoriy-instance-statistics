@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 def main():
 
-    root = 'E:\桌面\DataStatistics'  # your own path
+    root = '\DataStatistics'  # your own path
     file_path = os.path.join(root, r'DrawingData\Number of categories vs Number of instances.csv')
     save_path = os.path.join(root, r'Pictures\Number of categories vs Number of instances.jpg')
 
