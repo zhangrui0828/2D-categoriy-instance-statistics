@@ -1,0 +1,32 @@
+Cityscapes,
+Class Name,Number of images
+static,3445
+dynamic,1631
+ground,1348
+road,3419
+sidewalk,3286
+parking,833
+rail track,117
+building,3425
+wall,1177
+fence,1495
+guard rail,20
+bridge,255
+tunnel,25
+pole,3441
+polegroup,264
+traffic light,1952
+traffic sign,3284
+vegetation,3377
+terrain,2034
+sky,3145
+person,2728
+rider,1278
+car,3309
+truck,443
+bus,351
+caravan,67
+trailer,85
+train,167
+motorcycle,604
+bicycle,1869

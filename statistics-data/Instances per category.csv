@@ -1,0 +1,82 @@
+MS COCO,,PASCAL VOC2012,,PASCAL-Part,
+Class Name,Number of instances,Class Name,Number of instances,Class Name,Number of instances
+person,273469,person,10129,person,7879
+bicycle,7429,bicycle,790,bicycle,614
+car,45799,car,2364,car,1805
+motorbike,9096,motorbike,751,motorbike,613
+airplane,5278,airplane,954,aeroplane,743
+bus,6354,bus,637,bus,501
+train,4761,train,656,train,520
+truck,10388,,0,,0
+boat,11189,boat,999,boat,800
+traffic light,13521,,0,,0
+fire hydrant,1966,,0,,0
+stop sign,2058,,0,,0
+parking meter,1345,,0,,0
+bench,10251,,0,,0
+bird,11246,bird,1221,bird,978
+cat,4970,cat,1227,cat,1132
+dog,5726,dog,1541,dog,1416
+horse,6860,horse,750,horse,624
+sheep,9870,sheep,994,sheep,714
+cow,8527,cow,702,cow,480
+elephant,5768,,0,,0
+bear,1365,,0,,0
+zebra,5571,,0,,0
+giraffe,5363,,0,,0
+bachpack,9091,,0,,0
+umbrella,11844,,0,,0
+handbag,12894,,0,,0
+tie,6750,,0,,0
+suitcase,6495,,0,,0
+frisbee,2797,,0,,0
+skis,6887,,0,,0
+snowboard,2754,,0,,0
+sports ball,6610,,0,,0
+kite,9412,,0,,0
+baseball bat,3422,,0,,0
+baseball glove,3895,,0,,0
+skateboard,5722,,0,,0
+surfboard,6395,,0,,0
+tennis raekt,5037,,0,,0
+bottle,25367,bottle,1482,bottle,1031
+wine glass,8256,,0,,0
+cup,21549,,0,,0
+fork,5694,,0,,0
+knife,8096,,0,,0
+spoon,6418,,0,,0
+bowl,14984,,0,,0
+banana,9837,,0,,0
+apple,6090,,0,,0
+sandwich,4550,,0,,0
+orange,6686,,0,,0
+broccoli,7624,,0,,0
+carrot,8223,,0,,0
+hot dog,3045,,0,,0
+pizza,6106,,0,,0
+donut,7517,,0,,0
+cake,6669,,0,,0
+chair,40282,chair,2906,chair,2403
+sofa,6040,sofa,786,sofa,552
+pottedplant,8995,pottedplant,1099,pottedplant,826
+bed,4355,,0,,0
+diningtable,16411,diningtable,747,diningtable,647
+toilet,4336,,0,,0
+tvmonitor,6093,tvmonitor,826,tvmonitor,693
+laptop,5201,,0,,0
+mouse,2368,,0,,0
+remote,5986,,0,,0
+keyboard,3008,,0,,0
+cell phone,6696,,0,,0
+microwave,1728,,0,,0
+oven,3477,,0,,0
+toaster,234,,0,,0
+sink,5835,,0,,0
+refrigerator,2763,,0,,0
+book,25876,,0,,0
+clock,6601,,0,,0
+vase,6890,,0,,0
+scissors,1517,,0,,0
+tedly bear,4984,,0,,0
+hair drier,209,,0,,0
+toothbrush,2011,,0,,0

@@ -1,0 +1,82 @@
+,MS COCO,PASCAL VOC2012,PASCAL-Part
+Class Name,Number of images,Number of images,Number of images
+person,66808,4087,3589
+bicycle,3401,552,473
+car,12786,1161,1034
+motorcycle,3661,526,456
+airplane,3083,670,581
+bus,4141,421,355
+train,3745,544,452
+truck,6377,0,0
+boat,3146,508,434
+traffic light,4330,0,0
+fire hydrant,1797,0,0
+stop sign,1803,0,0
+parking meter,742,0,0
+bench,5805,0,0
+bird,3362,765,668
+cat,4298,1080,1005
+dog,4562,1286,1199
+horse,3069,482,425
+sheep,1594,325,290
+cow,2055,303,250
+elephant,2232,0,0
+bear,1009,0,0
+zebra,2001,0,0
+giraffe,2647,0,0
+backpack,5756,0,0
+umbrella,4142,0,0
+handbag,7133,0,0
+tie,3955,0,0
+suitcase,2507,0,0
+frisbee,2268,0,0
+skis,3202,0,0
+snowboard,1703,0,0
+sports ball,4431,0,0
+kite,2352,0,0
+baseball bat,2603,0,0
+baseball glove,2729,0,0
+skateboard,3603,0,0
+surfboard,3635,0,0
+tennis racket,3561,0,0
+bottle,8880,706,590
+wine glass,2643,0,0
+cup,9579,0,0
+fork,3710,0,0
+knife,4507,0,0
+spoon,3682,0,0
+bowl,7425,0,0
+banana,2346,0,0
+apple,1662,0,0
+sandwich,2463,0,0
+orange,1784,0,0
+broccoli,2010,0,0
+carrot,1764,0,0
+hot dog,1273,0,0
+pizza,3319,0,0
+donut,1585,0,0
+cake,3049,0,0
+chair,13354,1119,935
+couch,4618,507,417
+potted plant,4624,527,455
+bed,3831,0,0
+dining table,12338,538,514
+toilet,3502,0,0
+tv,4768,575,492
+laptop,3707,0,0
+mouse,1964,0,0
+remote,3221,0,0
+keyboard,2221,0,0
+cell phone,5017,0,0
+microwave,1601,0,0
+oven,2992,0,0
+toaster,225,0,0
+sink,4865,0,0
+refrigerator,2461,0,0
+book,5562,0,0
+clock,4863,0,0
+vase,3730,0,0
+scissors,975,0,0
+teddy bear,2234,0,0
+hair drier,198,0,0
+toothbrush,1041,0,0

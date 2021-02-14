@@ -1,0 +1,461 @@
+"PASCAL-Context										",
+"Class Name										",Number of images
+ accordion,2
+ aeroplane,597
+ air conditioner,5
+ antenna,2
+ artillery,1
+ ashtray,18
+ atrium,1
+ baby carriage,13
+ bag,319
+ ball,25
+ balloon,18
+ bamboo weaving,1
+ barrel,3
+ baseball bat,1
+ basket,89
+ basketball backboard,6
+ bathtub,5
+ bed,120
+ bedclothes,296
+ beer,1
+ bell,2
+ bench,119
+ bicycle,503
+ binoculars,0
+ bird,664
+ bird cage,21
+ bird feeder,14
+ bird nest,6
+ blackboard,2
+ board,137
+ boat,466
+ bone,3
+ book,416
+ bottle,821
+ bottle opener,1
+ bowl,137
+ box,434
+ bracelet,1
+ brick,9
+ bridge,31
+ broom,5
+ brush,120
+ bucket,175
+ building,3064
+ bus,399
+ cabinet,536
+ cabinet door,1
+ cage,29
+ cake,2
+ calculator,1
+ calendar,15
+ camel,0
+ camera,52
+ camera lens,0
+ can,78
+ candle,43
+ candle holder,29
+ cap,16
+ car,1273
+ card,11
+ cart,11
+ case,91
+ casette recorder,1
+ cash register,1
+ cat,1006
+ cd,45
+ cd player,1
+ ceiling,586
+ cell phone,43
+ cello,4
+ chain,10
+ chair,1357
+ chessboard,2
+ chicken,0
+ chopstick,8
+ clip,1
+ clippers,2
+ clock,61
+ closet,1
+ cloth,877
+ clothes tree,0
+ coffee,4
+ coffee machine,2
+ comb,3
+ computer,118
+ concrete,9
+ cone,30
+ container,61
+ control booth,0
+ controller,3
+ cooker,0
+ copying machine,0
+ coral,0
+ cork,0
+ corkscrew,0
+ counter,31
+ court,2
+ cow,256
+ crabstick,1
+ crane,12
+ crate,2
+ cross,3
+ crutch,2
+ cup,432
+ curtain,381
+ cushion,75
+ cutting board,3
+ dais,1
+ disc,2
+ disc case,16
+ dishwasher,0
+ dock,3
+ dog,1204
+ dolphin,0
+ door,455
+ drainer,1
+ dray,1
+ drink dispenser,1
+ drinking machine,1
+ drop,0
+ drug,1
+ drum,9
+ drum kit,8
+ duck,15
+ dumbbell,0
+ earphone,8
+ earrings,1
+ egg,3
+ electric fan,11
+ electric iron,2
+ electric pot,1
+ electric saw,1
+ electronic keyboard,0
+ engine,2
+ envelope,0
+ equipment,27
+ escalator,0
+ exhibition booth,2
+ extinguisher,6
+ eyeglass,15
+ fan,40
+ faucet,4
+ fax machine,1
+ fence,1021
+ ferris wheel,1
+ fire extinguisher,2
+ fire hydrant,2
+ fire place,41
+ fish,7
+ fish tank,3
+ fishbowl,1
+ fishing net,1
+ fishing pole,1
+ flag,100
+ flagstaff,3
+ flame,0
+ flashlight,2
+ floor,1895
+ flower,190
+ fly,1
+ foam,0
+ food,285
+ footbridge,1
+ forceps,0
+ fork,104
+ forklift,0
+ fountain,1
+ fox,0
+ frame,17
+ fridge,69
+ frog,1
+ fruit,2
+ funnel,1
+ furnace,2
+ game controller,4
+ game machine,3
+ gas cylinder,0
+ gas hood,0
+ gas stove,0
+ gift box,2
+ glass,21
+ glass marble,1
+ globe,0
+ glove,6
+ goal,4
+ grandstand,30
+ grass,2742
+ gravestone,0
+ ground,2987
+ guardrail,35
+ guitar,53
+ gun,2
+ hammer,1
+ hand cart,11
+ handle,2
+ handrail,7
+ hanger,3
+ hard disk drive,0
+ hat,27
+ hay,3
+ headphone,7
+ heater,4
+ helicopter,3
+ helmet,62
+ holder,2
+ hook,2
+ horse,429
+ horse-drawn carriage,25
+ hot-air balloon,1
+ hydrovalve,0
+ ice,6
+ inflator pump,0
+ ipod,15
+ iron,2
+ ironing board,1
+ jar,18
+ kart,1
+ kettle,1
+ key,4
+ keyboard,140
+ kitchen range,12
+ kite,1
+ knife,92
+ knife block,2
+ ladder,12
+ ladder truck,1
+ ladle,1
+ laptop,75
+ leaves,7
+ lid,1
+ life buoy,2
+ light,908
+ light bulb,1
+ lighter,5
+ line,1
+ lion,0
+ lobster,0
+ lock,1
+ machine,0
+ mailbox,3
+ mannequin,1
+ map,3
+ mask,0
+ mat,35
+ match book,1
+ mattress,3
+ menu,24
+ metal,216
+ meter box,1
+ microphone,44
+ microwave,26
+ mirror,81
+ missile,1
+ model,1
+ money,1
+ monkey,1
+ mop,3
+ motorbike,471
+ mountain,728
+ mouse,122
+ mouse pad,50
+ musical instrument,7
+ napkin,120
+ net,3
+ newspaper,30
+ oar,10
+ ornament,2
+ outlet,26
+ oven,8
+ oxygen bottle,1
+ pack,287
+ pan,10
+ paper,298
+ paper box,4
+ paper cutter,6
+ parachute,4
+ parasol,17
+ parterre,1
+ patio,1
+ pelage,0
+ pen,44
+ pen container,8
+ pencil,2
+ person,3919
+ photo,3
+ piano,4
+ picture,674
+ pig,1
+ pillar,8
+ pillow,55
+ pipe,16
+ pitcher,3
+ plant,106
+ plastic,11
+ plate,346
+ platform,154
+ player,24
+ playground,1
+ pliers,1
+ plume,1
+ poker,1
+ poker chip,1
+ pole,1555
+ pool table,1
+ postcard,1
+ poster,185
+ pot,310
+ pottedplant,625
+ printer,34
+ projector,2
+ pumpkin,2
+ rabbit,1
+ racket,1
+ radiator,27
+ radio,6
+ rail,31
+ rake,1
+ ramp,2
+ range hood,8
+ receiver,13
+ recorder,2
+ recreational machines,1
+ remote control,67
+ road,1102
+ robot,0
+ rock,396
+ rocket,0
+ rocking horse,1
+ rope,507
+ rug,181
+ ruler,1
+ runway,2
+ saddle,85
+ sand,46
+ saw,1
+ scale,2
+ scanner,1
+ scissors,5
+ scoop,1
+ screen,4
+ screwdriver,2
+ sculpture,73
+ scythe,0
+ sewer,2
+ sewing machine,3
+ shed,2
+ sheep,297
+ shell,3
+ shelves,448
+ shoe,74
+ shopping cart,2
+ shovel,2
+ sidecar,2
+ sidewalk,382
+ sign,592
+ signal light,43
+ sink,24
+ skateboard,1
+ ski,3
+ sky,3231
+ sled,2
+ slippers,1
+ smoke,56
+ snail,0
+ snake,3
+ snow,173
+ snowmobiles,1
+ sofa,831
+ spanner,0
+ spatula,1
+ speaker,118
+ speed bump,0
+ spice container,23
+ spoon,75
+ sprayer,0
+ squirrel,1
+ stage,16
+ stair,36
+ stapler,3
+ stick,4
+ sticky note,2
+ stone,0
+ stool,9
+ stove,10
+ straw,6
+ stretcher,0
+ sun,1
+ sunglass,4
+ sunshade,3
+ surveillance camera,1
+ swan,1
+ sweeper,0
+ swim ring,2
+ swimming pool,1
+ swing,1
+ switch,5
+ table,1566
+ tableware,3
+ tank,2
+ tap,12
+ tape,9
+ tarp,2
+ telephone,71
+ telephone booth,0
+ tent,36
+ tire,35
+ toaster,5
+ toilet,2
+ tong,1
+ tool,3
+ toothbrush,1
+ towel,3
+ toy,356
+ toy car,2
+ track,356
+ train,465
+ trampoline,1
+ trash bin,91
+ tray,9
+ tree,3232
+ tricycle,0
+ tripod,2
+ trophy,2
+ truck,126
+ tube,3
+ turtle,1
+ tvmonitor,536
+ tweezers,0
+ typewriter,1
+ umbrella,13
+ unknown,3734
+ vacuum cleaner,6
+ vending machine,2
+ video camera,11
+ video game console,11
+ video player,37
+ video tape,3
+ violin,4
+ wakeboard,0
+ wall,2794
+ wallet,7
+ wardrobe,2
+ washing machine,17
+ watch,6
+ water,899
+ water dispenser,5
+ water pipe,3
+ water skate board,1
+ watermelon,2
+ whale,0
+ wharf,0
+ wheel,8
+ wheelchair,5
+ window,756
+ window blinds,1
+ wineglass,197
+ wire,113
+ wood,462
+ wool,2

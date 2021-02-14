@@ -1,0 +1,32 @@
+Cityscapes,
+Class Name,Number of instances
+static,47217
+dynamic,4253
+ground,2151
+road,3616
+sidewalk,8349
+parking,1216
+rail track,131
+building,8301
+wall,1979
+fence,2839
+guard rail,80
+bridge,414
+tunnel,29
+pole,52748
+polegroup,364
+traffic light,11898
+traffic sign,24976
+vegetation,17745
+terrain,5070
+sky,3421
+person,21413
+rider,2363
+car,31822
+truck,582
+bus,483
+caravan,69
+trailer,89
+train,194
+motorcycle,888
+bicycle,4904
