@@ -27,7 +27,7 @@
 
 #### 统计代码
 
-统计数据集信息用到的代码存储在文件[StatisticalCode](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-code)中,要使用此代码，您只需更改代码中对应的文件路径。
+统计数据集信息用到的代码存储在文件[statistical-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-code)中,要使用此代码，您只需更改代码中对应的文件路径。
 
 - SIFT-flow.py
 
@@ -55,7 +55,7 @@
 
 #### 绘图代码
 
-绘图用到的代码存储在文件[DrawingCode](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/draw-code)中,要使用此代码，您需要为每一个python脚本配置数据文件，这些数据以CSV格式存储在[DrawingData](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件中。
+绘图用到的代码存储在文件[draw-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/draw-code)中,要使用此代码，您需要为每一个python脚本配置数据文件，这些数据以CSV格式存储在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件中。
 
 - Images per category.py
 
@@ -75,11 +75,11 @@
 
 - Instances per image.py
 
-  由于每个统计图样式和输入数据不一样，所以每一个代码对应一张统计图，要使用此代码，您需要将统计出来的数据整理后存放在[DrawingData](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件下对应的CSV文件中，并简单更改此代码中root为您自己的路径。
+  由于每个统计图样式和输入数据不一样，所以每一个代码对应一张统计图，要使用此代码，您需要将统计出来的数据整理后存放在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件下对应的CSV文件中，并简单更改此代码中root为您自己的路径。
 
 ### 统计图
 
-利用统计信息绘出的图存放在[Pictures](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共八张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集没有实例信息，其没有与实例信息相关的图。
+利用统计信息绘出的图存放在[pictures](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共八张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集没有实例信息，其没有与实例信息相关的图。
 
 ### 关于作者
 
