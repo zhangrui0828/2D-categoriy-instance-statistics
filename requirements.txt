@@ -1,0 +1,6 @@
+json
+tqdm
+scipy
+xml
+numpy
+matplotlib
