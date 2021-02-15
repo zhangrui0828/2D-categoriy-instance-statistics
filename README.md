@@ -79,7 +79,7 @@
 
 ### 统计图
 
-利用统计信息绘出的图存放在[pictures](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共八张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集和PASCAL-Context数据集没有实例信息，其没有与实例信息相关的图。
+利用统计信息绘出的图存放在[pictures](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共九张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集和PASCAL-Context数据集没有实例信息，其没有与实例信息相关的图。
 
 ### 关于作者
 
