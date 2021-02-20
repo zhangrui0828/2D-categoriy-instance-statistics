@@ -55,7 +55,7 @@ The code used for the statistical dataset information is stored in [statistics-c
 
 #### Draw-code
 
-绘图用到的代码存储在文件[draw-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/draw-code)中,要使用此代码，您需要为每一个python脚本配置数据文件，这些数据以CSV格式存储在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件中。
+Drawing code stored in [draw-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/draw-code), you need for each python script configurine data file.The data is stored in CSV format in [statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data).
 
 - Images per category.py
 
@@ -75,11 +75,17 @@ The code used for the statistical dataset information is stored in [statistics-c
 
 - Instances per image.py
 
-  由于每个统计图样式和输入数据不一样，所以每一个代码对应一张统计图，要使用此代码，您需要将统计出来的数据整理后存放在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件下对应的CSV文件中，并简单更改此代码中root为您自己的路径。
+  Since the style of each statistic chart and input data is different, each code corresponds to a statistic graph. To use this code, you need to organize the statistical data and store them in [statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data), and simply change the root in this code to your own path.
 
-### Statistical-chart
+#### Statistical-chart
 
-利用统计信息绘出的图存放在[statistical-chart](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共九张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集和PASCAL-Context数据集没有实例信息，其没有与实例信息相关的图。
+  Graphs drawn using statistical information are stored in [statistical-chart](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures). There are nine chart, contain bar charts about the number of instances and images of each class in each dataset, scatter charts about the number of classes and instances, and line charts about the number of classes and instances contained in each image. Since there is no instance information in the SIFI-flow dataset and PASCAL-Context dataset, there is no graph related to instance information.For examples:
+  
+ ![Categories per image.jpg](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/blob/main/statistical-chart/Categories%20per%20image.jpg)
+ 
+ ![Images per category.jpg](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/blob/main/statistical-chart/Images%20per%20category.jpg)
+ 
+ ![Number of categories vs Number of instances.jpg](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/blob/main/statistical-chart/Number%20of%20categories%20vs%20Number%20of%20instances.jpg)
 
 ### About
 
