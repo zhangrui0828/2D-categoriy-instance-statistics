@@ -25,26 +25,26 @@ Dataset download：
 - numpy
 - matplotlib
 
-#### Statistical-code
+#### Statistics-code
 
-统计数据集信息用到的代码存储在文件[statistical-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-code)中,要使用此代码，您只需更改代码中对应的文件路径。
+The code used for the statistical dataset information is stored in [statistics-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-code). You only need to change the corresponding file path in the code to use it.
 
 - SIFT-flow.py
 
-  简单更改root路径为SIFI-flow数据集中分割标签（semanticlabels）在您的电脑中的路径即可。
-
+  Simply set the root path to the path of Semanticlabels in the SIFI-FLOW dataset on your computer.
+  
 - VOC2012.py
 
-  简单更改main函数中root和file_path为您自己的路径。
+  Simply change the root and file_path in the main function to your own path.
 
 - PASCAL-Part.py
 
-  由于此数据集的注释信息存储在mat文件中，您需要先调用PASCAL-Part.m文件生成含有每张图片实例信息的instances.txt文件，并把这个文件输入到python程序中去。
+  Since the annotation information for this data set is stored in the mat file, you need to first call the pascal-part.m file to generate the instances.txt file with the instance information for each image and input this file into the Python program.
 
 - PASCAL-Context.py
 
-  简单更改root路径为PASCAL-Context数据集在您的电脑中的路径即可。
-
+  Simply change the root path to the path of the PASCAL-Context dataset on your computer.
+  
 - MS COCO.py
 
   由于COCO数据集中训练集（train）和验证集（val）在不同的文件中，您需要分别将这两个文件(instances_train2014.json, instances_val2014.json)输入到程序中去，并把两次得到的结果自己相加。由于数据集比较大，程序可能会花费较长的时间。
