@@ -1,10 +1,10 @@
-## 语义分割常用数据集信息统计
+## Semantic segmentation dataset information statistics
 
-本项目介绍了常用的语义分割数据集：SIFT-flow(2009), PASCAL VOC2012(2012), PASCAL-Part(2014), PASCAL-Context(2010), MS COCO(2014), Cityscapes(2015)的统计信息。
+This repository introduces the statistics of commonly used semantic segmentation datasets: SIFT-flow(2009), PASCAL VOC2012(2012), PASCAL-Part(2014), PASCAL-Context(2010), MS COCO(2014), Cityscapes(2015).
 
-### 数据集
+### Dataset
 
-数据集官方下载地址：
+Dataset download：
 
 - SIFT-flow(2009) ：http://www.cs.unc.edu/~jtighe/Papers/ECCV10/
 - PASCAL VOC2012(2012) ：http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
@@ -13,9 +13,9 @@
 - MS COCO(2014)：https://cocodataset.org/
 - Cityscapes(2015)：https://www.cityscapes-dataset.com/
 
-###  代码使用
+###  Usage
 
-#### 需要的库
+#### Requirements
 
 - pyhon
 - json
@@ -25,7 +25,7 @@
 - numpy
 - matplotlib
 
-#### 统计代码
+#### Statistical-code
 
 统计数据集信息用到的代码存储在文件[statistical-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-code)中,要使用此代码，您只需更改代码中对应的文件路径。
 
@@ -53,7 +53,7 @@
 
   因为存储有标注信息的json文件分别存放在Cityscapes数据集gtFine/中不同的文件夹下， 您需要自己将他们提取到一个文件夹中，把程序中file_dir更改为这个文件夹路径。您可以在main函数中的labels列表中设置您感兴趣的类进行统计。
 
-#### 绘图代码
+#### Draw-code
 
 绘图用到的代码存储在文件[draw-code](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/draw-code)中,要使用此代码，您需要为每一个python脚本配置数据文件，这些数据以CSV格式存储在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件中。
 
@@ -77,12 +77,10 @@
 
   由于每个统计图样式和输入数据不一样，所以每一个代码对应一张统计图，要使用此代码，您需要将统计出来的数据整理后存放在[statistics-data](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/statistics-data)文件下对应的CSV文件中，并简单更改此代码中root为您自己的路径。
 
-### 统计图
+### Statistical-chart
 
-利用统计信息绘出的图存放在[pictures](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共九张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集和PASCAL-Context数据集没有实例信息，其没有与实例信息相关的图。
+利用统计信息绘出的图存放在[statistical-chart](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures)文件夹中，一共九张图片，包含每个数据集每一类实例数和每一类图片数的柱状图，类数与实例数的散点图，以及每一张图片包含的类数和实例数的折线图。其中由于SIFI-flow数据集和PASCAL-Context数据集没有实例信息，其没有与实例信息相关的图。
 
-### 关于作者
+### About
 
-作者：
-
-如果您有任何问题，欢迎在讨论区讨论。
+If you have any questions, please feel free to discuss in the issues.
