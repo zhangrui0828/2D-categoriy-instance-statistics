@@ -47,11 +47,11 @@ The code used for the statistical dataset information is stored in [statistics-c
   
 - MS COCO.py
 
-  由于COCO数据集中训练集（train）和验证集（val）在不同的文件中，您需要分别将这两个文件(instances_train2014.json, instances_val2014.json)输入到程序中去，并把两次得到的结果自己相加。由于数据集比较大，程序可能会花费较长的时间。
+  Since the training set  and validation set in the COCO dataset are in separate files, you need to input the two files (instances_train2014.json, instances_val2014.json) into the program separately and add the results. Due to the large dataset, the program may take a long time.
 
 - Cityscapes.py
 
-  因为存储有标注信息的json文件分别存放在Cityscapes数据集gtFine/中不同的文件夹下， 您需要自己将他们提取到一个文件夹中，把程序中file_dir更改为这个文件夹路径。您可以在main函数中的labels列表中设置您感兴趣的类进行统计。
+  Because the JSON files that store the annotation information are stored in different folders in the Cityscapes dataset gtFine/, you need to extract them into a folder yourself and change the file_dir in the program to this folder path. You can set the class you are interested in to count on the labels list in the main function.
 
 #### Draw-code
 
