@@ -79,7 +79,8 @@ Drawing code stored in [draw-code](https://github.com/zhangrui0828/2D-categoriy-
 
 #### Statistical-chart
 
-  Graphs drawn using statistical information are stored in [statistical-chart](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures). There are nine chart, contain bar charts about the number of instances and images of each class in each dataset, scatter charts about the number of classes and instances, and line charts about the number of classes and instances contained in each image. Since there is no instance information in the SIFI-flow dataset and PASCAL-Context dataset, there is no graph related to instance information.For examples:
+  Graphs drawn using statistical information are stored in [statistical-chart](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/tree/main/pictures). There are nine chart, contain bar charts about the number of instances and images of each class in each dataset, scatter charts about the number of classes and instances, and line charts about the number of classes and instances contained in each image. Since there is no instance information in the SIFI-flow dataset and PASCAL-Context dataset, there is no graph related to instance information.
+  For examples:
   
  ![Categories per image.jpg](https://github.com/zhangrui0828/2D-categoriy-instance-statistics/blob/main/statistical-chart/Categories%20per%20image.jpg)
  
